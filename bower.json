@@ -1,0 +1,16 @@
+{
+  "name": "angular-debug",
+  "description": "Angular logging service",
+  "version": "0.1.0",
+  "homepage": "https://github.com/firstandthird/angular-debug",
+  "license": "MIT",
+  "copyright": "First + Third",
+  "main": "dist/angular-debug.js",
+  "dependencies": {
+    "angular": "~1.0.7",
+    "bower-debug": "~0.8.0"
+  },
+  "devDependencies": {
+    "assert": "*"
+  }
+}
